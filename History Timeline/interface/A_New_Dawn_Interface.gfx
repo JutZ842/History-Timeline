@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_A_NEW_DAWN_BOOKMARK"
+		texturefile = "gfx/interface/A_New_Dawn_1930.dds"
+	}
+}

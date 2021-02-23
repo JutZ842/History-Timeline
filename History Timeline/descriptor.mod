@@ -1,0 +1,18 @@
+version="1.10"
+tags={
+	"Balance"
+	"Events"
+	"Gameplay"
+	"Graphics"
+	"Historical"
+	"Ideologies"
+	"Map"
+	"Military"
+	"National Focuses"
+	"Sound"
+	"Technologies"
+	"Translation"
+	"Fixes"
+}
+name="History Timeline"
+supported_version="1.10.4"
