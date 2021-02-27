@@ -1,0 +1,19 @@
+technologies = {
+
+	cruiser_submarines = {
+
+		enable_equipments = { 
+			ship_hull_cruiser_submarine
+		}
+		enable_equipment_modules = { 
+			ship_extra_fuel_tank
+		}
+		research_cost = 1
+		start_year = 1936
+
+		#set at gamestart
+		allow = {
+			always = no
+		}
+	}
+}
