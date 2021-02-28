@@ -1,6 +1,6 @@
 ﻿capital = 813
 
-oob = "USA_1936"
+oob = "USA_1932"
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "USA_1936_naval_mtg"
@@ -159,7 +159,7 @@ give_guarantee = URG
  	complete_national_focus = USA_fair_labour_standards_act
 
 	set_global_flag = earhart_disappeared
-	oob = "USA_1939"
+	oob = "USA_1949"
 	if = {
 		limit = { has_dlc = "Man the Guns" }
 			set_naval_oob = "USA_1939_naval_mtg"
@@ -258,16 +258,15 @@ give_guarantee = URG
 
 set_convoys = 500
 
-
 set_politics = {
-	ruling_party = democratic
+	ruling_party = conservatism
 	last_election = "1928.11.6"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 99
-	communism = 1
+	liberalism = 50
+	conservatism = 50
 }
 
 add_ideas = {
@@ -287,8 +286,8 @@ set_autonomy = {
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = democratic
-		last_election = "1928.11.6"
+		ruling_party = liberalism
+		last_election = "1936.11.6"
 		election_frequency = 48
 		elections_allowed = yes
 	}
@@ -299,7 +298,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Franklin_Roosevelt.dds"
 	expire = "1945.4.12"
-	ideology = liberalism
+	ideology = dem_party_us
 	traits = {
 		dislikes_germany
 	}
@@ -332,7 +331,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Harry_S_Truman.dds"
 	expire = "1972.2.26"
-	ideology = liberalism
+	ideology = dem_party_us
 	traits = {
 	}
 }
@@ -342,10 +341,8 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Herbert_Hoover.dds"
 	expire = "1964.10.20"
-	ideology = liberalism
+	ideology = rep_party_us
 	traits = {
-		dislikes_germany
-		disarmed_nation
 	}
 }
 
