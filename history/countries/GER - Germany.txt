@@ -1,4 +1,4 @@
-﻿capital = 64
+﻿capital = 815
 
 oob = "GER_1930"
 
@@ -182,9 +182,39 @@ create_country_leader = {
 	expire = "1931.3.20"
 	ideology = social_democracy
 	traits = {
-		dictator
 	}
 }
+
+create_country_leader = {
+	name = "Heinrich Brüning"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Portrait_Germany_Heinrich_Bruening.dds"
+	expire = "1970.3.30"
+	ideology = centerright
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Franz von Papen"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Portrait_Germany_Franz_von_Papen.dds"
+	expire = "1969.5.2"
+	ideology = national_populism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Kurt von Schleicher"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Portrait_Germany_Kurt_von_Schleicher.dds"
+	expire = "1934.6.30"
+	ideology = national_populism
+	traits = {
+	}
+}
+
 
 #create_country_leader = {
 #	name = "Otto Wels"
