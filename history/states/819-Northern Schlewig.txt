@@ -1,0 +1,31 @@
+state={
+	id=819
+	name="STATE_819"
+	resources={
+		steel=12 # was: 20.000
+	}
+
+	state_category = metropolis
+
+
+	history={
+		owner = DEN
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 5
+			dockyard = 4
+			air_base = 10
+			}
+		add_core_of = DEN
+		add_core_of = GER
+		victory_points = {
+		}
+	}
+
+	provinces={
+		332 11251
+	}
+	manpower=200000
+	buildings_max_level_factor=1.000
+}
