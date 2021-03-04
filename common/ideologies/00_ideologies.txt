@@ -466,6 +466,9 @@ ideologies = {
 			provisional_government  = {
 			}
 			
+			League_of_Nations_Gouverment = {
+			}
+			
 			military_dictatorship  = {
 			}
 			
