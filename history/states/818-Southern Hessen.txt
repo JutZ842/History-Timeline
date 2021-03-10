@@ -1,6 +1,7 @@
 state={
 	id=818
 	name="STATE_818"
+	manpower = 1426847
 	resources={
 		steel=12 # was: 20.000
 	}
@@ -21,14 +22,16 @@ state={
 			
 		set_demilitarized_zone = yes
 		
-		}
 		add_core_of = GER
 		victory_points = {
+			6488 20
 		}
-
+		victory_points = {
+			589 5
+		}
+	}
 	provinces={
 		589 3574 6444 6488 9486 11560 
 	}
-	manpower=l426847 
 	buildings_max_level_factor=1.000
 }
