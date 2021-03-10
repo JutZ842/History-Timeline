@@ -1,0 +1,51 @@
+﻿capital = 820
+
+oob = "SAR_1930"
+
+set_fuel_ratio = 0.8
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+}
+
+set_research_slots = 2
+set_stability = 0.50 
+set_war_support = 0
+
+#Trade
+create_import = {
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1928.1.1"
+	election_frequency = 24
+	elections_allowed = no
+}
+set_popularities = {
+	neutrality = 100
+}
+
+add_ideas = {
+}
+
+create_country_leader = {
+	name = "Presidential Commission"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Portrait_Saargebiet_Presidential_Commission.dds"
+	expire = "1965.1.1"
+	ideology = provisional_government
+	traits = {
+	}
+}
+
+add_namespace = {
+	name = "ger_unit_leader"
+	type = unit_leader
+}

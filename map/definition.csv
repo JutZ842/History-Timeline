@@ -536,7 +536,7 @@
 535;2;138;180;land;false;marsh;1
 536;2;141;95;land;false;plains;1
 537;2;141;145;land;false;forest;1
-538;2;144;60;land;false;plains;1
+538;2;144;60;land;false;urban;1
 539;2;144;165;land;false;hills;1
 540;2;147;25;land;true;hills;1
 541;2;147;80;land;false;forest;1
@@ -3324,7 +3324,7 @@
 3323;43;126;18;land;false;forest;1
 3324;43;126;73;land;false;forest;1
 3325;43;126;223;land;true;plains;1
-3326;43;129;38;land;true;urban;1
+3326;6;138;121;land;false;plains;1	
 3327;43;129;188;land;false;forest;1
 3328;43;132;3;land;false;forest;6
 3329;43;132;153;land;true;plains;1
@@ -6522,7 +6522,7 @@
 6521;86;99;46;land;false;urban;1
 6522;86;99;151;land;false;plains;1
 6523;86;102;66;land;false;desert;6
-6524;86;102;216;land;false;plains;1
+6524;86;102;216;land;false;urban;1
 6525;86;105;31;land;false;desert;6
 6526;86;105;181;land;true;hills;1
 6527;86;108;96;land;false;forest;1
@@ -11303,7 +11303,7 @@
 11302;169;102;177;land;false;forest;1
 11303;169;105;92;land;false;plains;1
 11304;169;105;142;land;false;marsh;1
-11305;169;105;197;land;true;plains;1
+11305;169;105;197;land;true;urban;1
 11306;169;108;162;land;false;mountain;1
 11307;169;111;22;land;false;mountain;6
 11308;169;111;77;land;false;plains;6
@@ -11529,7 +11529,7 @@
 11528;170;168;22;land;false;plains;1
 11529;170;168;77;land;false;forest;1
 11530;170;168;227;land;false;forest;1
-11531;170;171;42;land;false;forest;1
+11531;170;171;42;land;false;urban;1
 11532;170;171;192;land;false;forest;1
 11533;170;174;157;land;false;forest;1
 11534;170;174;212;land;false;plains;1
@@ -13234,3 +13234,13 @@
 13233;230;236;122;land;false;mountain;1
 13234;210;241;113;land;false;hills;2
 13235;233;179;9;land;false;mountain;2
+13236;192;191;246;land;false;forest;1
+13237;13;205;120;land;false;urban;1
+13238;203;107;126;land;false;forest;1
+13239;43;129;38;land;false;plains;1
+13240;44;215;162;land;false;urban;1
+13241;93;141;239;land;false;forest;1
+13242;159;242;177;land;false;forest;1
+13243;3;183;136;land;false;forest;1
+13244;137;4;197;land;false;forest;1
+13245;245;144;31;land;true;plains;1					 

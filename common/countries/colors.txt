@@ -707,3 +707,7 @@ RIP = {
 	color = rgb { 66 246 81 }
 	color_ui = rgb { 66 246 81 }
 }
+SAR = {
+	color = rgb { 16 58 117 }
+	color_ui = rgb { 16 58 117 }
+}

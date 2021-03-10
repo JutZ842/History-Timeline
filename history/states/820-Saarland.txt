@@ -1,0 +1,35 @@
+state={
+	id=820
+	name="STATE_820"
+	resources={
+	}
+
+	state_category = metropolis
+
+
+
+	history={
+		owner = SAR
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 5
+			air_base = 10
+		}
+		
+		set_demilitarized_zone = yes
+		
+		add_core_of = GER
+		add_core_of = FRA
+		add_core_of = SAR
+		victory_points = {
+			11531 5
+		}
+	}
+		
+	provinces={
+		11531 13236 13238 13238
+	}
+	manpower=770030
+	buildings_max_level_factor=1.000
+}
