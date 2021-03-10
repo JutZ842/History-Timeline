@@ -16,15 +16,24 @@ state={
 			industrial_complex = 5
 			dockyard = 4
 			air_base = 10
+			6732 = {
+				naval_base = 8
+
+			}
+			9832 = {
+				naval_base = 3
+
+			}
+
 		}
 		add_core_of = GER
 		victory_points = {
-			13237 20 
+			6521 20 
 		}
 	}
 
 	provinces={
-		13237
+		6521
 	}
 	manpower=200000
 	buildings_max_level_factor=1.000
